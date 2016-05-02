@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 9</div>
+
             </div>
         </div>
     </body>
